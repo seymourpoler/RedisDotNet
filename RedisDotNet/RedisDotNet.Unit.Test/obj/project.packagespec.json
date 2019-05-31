@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\seymo\\Documents\\code\\GitHub\\PetProjects\\PetProjects\\RedisDotNet\\RedisDotNet.Unit.Test\\RedisDotNet.Unit.Test.csproj",
+    "projectName": "RedisDotNet.Unit.Test",
+    "projectPath": "C:\\Users\\seymo\\Documents\\code\\GitHub\\PetProjects\\PetProjects\\RedisDotNet\\RedisDotNet.Unit.Test\\RedisDotNet.Unit.Test.csproj",
+    "outputPath": "C:\\Users\\seymo\\Documents\\code\\GitHub\\PetProjects\\PetProjects\\RedisDotNet\\RedisDotNet.Unit.Test\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\seymo\\Documents\\code\\GitHub\\PetProjects\\PetProjects\\RedisDotNet\\RedisDotNet\\RedisDotNet.csproj": {
+            "projectPath": "C:\\Users\\seymo\\Documents\\code\\GitHub\\PetProjects\\PetProjects\\RedisDotNet\\RedisDotNet\\RedisDotNet.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.0.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.10.1, )"
+        },
+        "Shouldly": {
+          "target": "Package",
+          "version": "[3.0.2, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

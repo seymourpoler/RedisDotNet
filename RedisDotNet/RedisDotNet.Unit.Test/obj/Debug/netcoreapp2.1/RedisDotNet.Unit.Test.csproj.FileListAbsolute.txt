@@ -1,0 +1,17 @@
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.deps.json
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.runtimeconfig.json
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.runtimeconfig.dev.json
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.dll
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.pdb
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\RedisDotNet.dll
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\bin\Debug\netcoreapp2.1\RedisDotNet.pdb
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\obj\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.csprojAssemblyReference.cache
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\obj\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.csproj.CoreCompileInputs.cache
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\obj\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.AssemblyInfoInputs.cache
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\obj\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.AssemblyInfo.cs
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\obj\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.csproj.CopyComplete
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\obj\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.dll
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet.Unit.Test\obj\Debug\netcoreapp2.1\RedisDotNet.Unit.Test.pdb

@@ -1,0 +1,9 @@
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\bin\Debug\netcoreapp2.1\RedisDotNet.deps.json
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\bin\Debug\netcoreapp2.1\RedisDotNet.dll
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\bin\Debug\netcoreapp2.1\RedisDotNet.pdb
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\obj\Debug\netcoreapp2.1\RedisDotNet.csprojAssemblyReference.cache
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\obj\Debug\netcoreapp2.1\RedisDotNet.csproj.CoreCompileInputs.cache
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\obj\Debug\netcoreapp2.1\RedisDotNet.AssemblyInfoInputs.cache
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\obj\Debug\netcoreapp2.1\RedisDotNet.AssemblyInfo.cs
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\obj\Debug\netcoreapp2.1\RedisDotNet.dll
+C:\Users\seymo\Documents\code\GitHub\PetProjects\PetProjects\RedisDotNet\RedisDotNet\obj\Debug\netcoreapp2.1\RedisDotNet.pdb
